@@ -1,0 +1,40 @@
+<uniqueBreedings>
+    <breedingOverrides>
+        <breedingOverride parent1Id="6" parent2Id="86" childId="86" childIdAdd="B"/>
+        <breedingOverride parent1Id="7" parent2Id="85" childId="85" childIdAdd="B"/>
+        <breedingOverride parent1Id="9" parent2Id="31" childId="31" childIdAdd="B"/>
+        <breedingOverride parent1Id="9" parent2Id="31" childId="31" childIdAdd="B"/>
+        <breedingOverride parent1Id="10" parent2Id="12" childId="12" childIdAdd="B"/>
+        <breedingOverride parent1Id="10" parent2Id="24" childId="24" childIdAdd="B"/>
+        <breedingOverride parent1Id="22" parent2Id="48" childId="48" childIdAdd="B"/>
+        <breedingOverride parent1Id="32" parent2Id="37" childId="37" childIdAdd="B"/>
+        <breedingOverride parent1Id="32" parent2Id="53" childId="32" childIdAdd="B"/>
+        <breedingOverride parent1Id="33" parent2Id="60" childId="103"/>
+        <breedingOverride parent1Id="33" parent2Id="87" childId="104"/>
+        <breedingOverride parent1Id="33" parent2Id="103" childId="33" childIdAdd="B"/>
+        <breedingOverride parent1Id="40" parent2Id="66" childId="40" childIdAdd="B"/>
+        <breedingOverride parent1Id="43" parent2Id="65" childId="65" childIdAdd="B"/>
+        <breedingOverride parent1Id="45" parent2Id="70" childId="45" childIdAdd="B"/>
+        <breedingOverride parent1Id="57" parent2Id="71" childId="71" childIdAdd="B"/>
+        <breedingOverride parent1Id="57" parent2Id="88" childId="88" childIdAdd="B"/>
+        <breedingOverride parent1Id="58" parent2Id="75" childId="58" childIdAdd="B"/>
+        <breedingOverride parent1Id="59" parent2Id="89" childId="89" childIdAdd="B"/>
+        <breedingOverride parent1Id="60" parent2Id="64" childId="64" childIdAdd="B"/>
+        <breedingOverride parent1Id="61" parent2Id="98" childId="107"/>
+        <breedingOverride parent1Id="65" parent2Id="80" childId="80" childIdAdd="B"/>
+        <breedingOverride parent1Id="71" parent2Id="100" childId="105"/>
+        <breedingOverride parent1Id="84" parent2Id="94" childId="84" childIdAdd="B"/>
+        <breedingOverride parent1Id="85" parent2Id="103" childId="106"/>
+        <breedingOverride parent1Id="90" parent2Id="91" childId="90" childIdAdd="B"/>
+        <breedingOverride parent1Id="97" parent2Id="110" childId="110" childIdAdd="B"/>
+        <breedingOverride parent1Id="99" parent2Id="104" childId="104" childIdAdd="B"/>
+        <breedingOverride parent1Id="101" parent2Id="102" childId="102" childIdAdd="B"/>
+    </breedingOverrides>
+    <selfBreedingOnlys>
+        <selfBreedingOnly id="101" id_add="B"/>
+        <selfBreedingOnly id="108"/>
+        <selfBreedingOnly id="109"/>
+        <selfBreedingOnly id="110"/>
+        <selfBreedingOnly id="111"/>
+    </selfBreedingOnlys>
+</uniqueBreedings>
